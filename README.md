@@ -9,3 +9,8 @@ Dependencies -
 - Python 3 
 - Python Package - Folium
 - Python Package - Yellowbrick
+
+Authors - 
+- Rohan Gugale
+- Siddharth Ingle
+- Vishwajeet Jadhav
